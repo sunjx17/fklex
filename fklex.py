@@ -27,7 +27,6 @@ headers=[
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7",
     "Cache-Control": "max-age=0",
     "Connection": "keep-alive",
-    "Cookie": "_uuid=85A531DD-16C8-7881-EC1C-AFF662DC0CC313265infoc; buvid3=9418258B-C80E-4485-AFC4-5238713CD6E4143111infoc; sid=l20mp8ih; DedeUserID=271464188; DedeUserID__ckMd5=195f5c3fd300c7c4; SESSDATA=f3382715%2C1617686231%2C613ba*a1; bili_jct=6e135b549040b37ac7435d17e25b4feb; LIVE_BUVID=AUTO7816021342319303; CURRENT_FNVAL=80; rpdid=|(mmRkku|~l0J'uY|kuJRkRJ; _ga=GA1.2.670095072.1603607748; blackside_state=1; fingerprint3=ddfb97898f17c89820e1230e1095a413; buvid_fp_plain=9418258B-C80E-4485-AFC4-5238713CD6E4143111infoc; buivd_fp=9418258B-C80E-4485-AFC4-5238713CD6E4143111infoc; fingerprint=b8ba60960103646cb129d605160a0182; fingerprint_s=a985811c29d7103444536164ca7a07dc; dy_spec_agreed=1; bp_video_offset_271464188=486836746322400515; PVID=1; CURRENT_QUALITY=112; bp_t_offset_271464188=489219276354007979; bsource=search_baidu; bfe_id=1bad38f44e358ca77469025e0405c4a6",
     "DNT": "1",
     "Host": "api.bilibili.com",
     "Upgrade-Insecure-Requests": "1",
